@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random-image-loop", "random-image-loop\random-image-loop.csproj", "{FB23AFD8-09F6-43EB-89D9-10C3FE6AEFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB23AFD8-09F6-43EB-89D9-10C3FE6AEFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB23AFD8-09F6-43EB-89D9-10C3FE6AEFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB23AFD8-09F6-43EB-89D9-10C3FE6AEFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB23AFD8-09F6-43EB-89D9-10C3FE6AEFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B52A5F3-A9BB-468D-9147-A5C8BE7FC3DE}
+	EndGlobalSection
+EndGlobal
